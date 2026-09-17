@@ -3,3 +3,5 @@ OP-01;Enregistrement de l appel telephonique;Preuve de l appel et controle de la
 OP-02; Saisie des réponses et stockage dans la base de données (étape 2 du
 déroulé)
 
+0P-03;Réécoute et archivage des enristrements audio sur le serveur de fichiers (étape 3 du déroulé)
+
